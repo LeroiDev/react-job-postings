@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.custom-style {
+  --font-display: "Satoshi", "sans-serif";
+
+  --grid-template-columns: {
+    '70/30': '70% 28%',
+  }
+}
